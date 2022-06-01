@@ -7,7 +7,7 @@ plugins:
 #        combined: true
 
 nav:
-- Contenidos: 'README.md'
+- Contents: 'README.md'
 - Session 1: 'session-1.md'
 - Session 2: 'session-2.md'
 

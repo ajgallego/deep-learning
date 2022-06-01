@@ -1,6 +1,6 @@
 # Summary
 
-* [Contenidos](README.md)
+* [Contents](README.md)
 * [Introducción](introduccion.md)
   * [Frameworks responsive](introduccion-frameworks.md)
   * [Funcionamiento del diseño adaptable](introduccion-funcionamiento.md)
