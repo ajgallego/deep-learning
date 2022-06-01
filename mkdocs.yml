@@ -12,7 +12,7 @@ nav:
 - Session 2: 'session-2.md'
 
 theme:
-    language: es
+    language: en
     name: 'material'
     palette:
         primary: 'Indigo'
