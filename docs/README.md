@@ -13,8 +13,8 @@ _Department of Software and Computing Systems, University of Alicante_
 
 ### Syllabus:
 
-* Session 1: Introduction
-* Session 2: Convolutional Neural Networks
-* Session 3: Generative Adversarial Networks
-* Sessions 4 and 5: Recurrent Neural Networks
-* Session 6: Applications and projects
+* Introduction (_Session 1_)
+* Convolutional Neural Networks (_Session 2_)
+* Generative Adversarial Networks (_Session 3_)
+* Recurrent Neural Networks (_Sessions 4 and 5_)
+* Applications and projects (_Session 6_)
