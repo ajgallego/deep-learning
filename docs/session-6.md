@@ -1,4 +1,4 @@
-# Student projects
+# Applications and projects
 
 Transform 4 Europe - 2022
 
@@ -6,4 +6,4 @@ Lecturers: [Antonio Javier Gallego](mailto:jgallego@dlsi.ua.es), [Jorge Calvo Za
 
 ## Summary
 In this session:
-    * ....
+* ....

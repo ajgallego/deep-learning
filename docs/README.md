@@ -1,6 +1,6 @@
 # Deep Learning Course
 
-## Transform 4 Europe - 2022
+Transform 4 Europe - 2022
 
 _Department of Software and Computing Systems, University of Alicante_
 
@@ -11,10 +11,10 @@ _Department of Software and Computing Systems, University of Alicante_
 * [Juan Ramon Rico Juan](mailtoJuanRamonRico@ua.es)
 * [Jose J. Valero Mas](mailto:jjvalero@dlsi.ua.es)
 
-### Table of contents
+### Syllabus:
 
-* Introduction
-* Convolutional Neural Networks
-* Generative Adversarial Networks
-* Recurrent Neural Networks
-* Student projects
+* Session 1: Introduction
+* Session 2: Convolutional Neural Networks
+* Session 3: Generative Adversarial Networks
+* Sessions 4 and 5: Recurrent Neural Networks
+* Session 6: Applications and projects
