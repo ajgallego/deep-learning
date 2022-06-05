@@ -1,4 +1,4 @@
-# Deep Learning Course
+# Introduction to Deep Learning
 
 Transform 4 Europe - 2022
 
@@ -15,6 +15,6 @@ _Department of Software and Computing Systems, University of Alicante_
 
 * Introduction (_Session 1_)
 * Convolutional Neural Networks (_Session 2_)
-* Generative Adversarial Networks (_Session 3_)
+* Autoencoders and Generative Adversarial Networks (_Session 3_)
 * Recurrent Neural Networks (_Sessions 4 and 5_)
 * Applications and projects (_Session 6_)
