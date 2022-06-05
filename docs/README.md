@@ -8,7 +8,7 @@ _Department of Software and Computing Systems, University of Alicante_
 
 * [Jorge Calvo Zaragoza](mailto:jcalvo@dlsi.ua.es)
 * [Antonio Javier Gallego](mailto:jgallego@dlsi.ua.es)
-* [Juan Ramon Rico Juan](mailtoJuanRamonRico@ua.es)
+* [Juan Ramon Rico Juan](mailto:JuanRamonRico@ua.es)
 * [Jose J. Valero Mas](mailto:jjvalero@dlsi.ua.es)
 
 ### Syllabus:
