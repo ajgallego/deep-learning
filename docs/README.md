@@ -1,3 +1,5 @@
+![](assets/Logo_Transform4Europe_official.png)
+
 # Introduction to Deep Learning
 
 Transform 4 Europe - 2022
