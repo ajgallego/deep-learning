@@ -8,5 +8,5 @@ Lecturer: [Jorge Calvo Zaragoza](mailto:jcalvo@dlsi.ua.es)
 
 In this session:
 
-* We will the neural autoencoder architecture.
+* We will present and thorouhgly analyze the possibilites of neural autoencoder architectures.
 * We will introduce the idea of generative neural models focusing on the case of Generative Adversarial Networks. 
