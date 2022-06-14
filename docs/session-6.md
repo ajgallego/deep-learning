@@ -6,6 +6,7 @@ Lecturers: [Antonio Javier Gallego](mailto:jgallego@dlsi.ua.es), [Jorge Calvo Za
 
 ## Summary
 
-In this session:
+In this session you will address two specific projects that summarize the main points of the course:
 
-* ....
+* Project I: Predicting the age of a person
+* Project II: Colouring images
